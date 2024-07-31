@@ -7,8 +7,8 @@ import '../classifier/classifier.dart';
 import '../styles.dart';
 import 'plant_photo_view.dart';
 
-const _labelsFileName = 'assets/labels.txt';
-const _modelFileName = 'model_unquant.tflite';
+const _labelsFileName = 'assets/labels2.txt';
+const _modelFileName = 'model2.tflite';
 
 class PlantRecogniser extends StatefulWidget {
   const PlantRecogniser({super.key});
